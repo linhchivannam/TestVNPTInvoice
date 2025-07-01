@@ -1,0 +1,12 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="TestVNPTInvoice.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="TestVNPTInvoice_PublishService_PublishService" Type="(Web Service URL)" Scope="Application">
+      <Value Profile="(Default)">https://1301097237-tt78cadmin.vnpt-invoice.com.vn/PublishService.asmx</Value>
+    </Setting>
+    <Setting Name="TestVNPTInvoice_PortalService_PortalService" Type="(Web Service URL)" Scope="Application">
+      <Value Profile="(Default)">https://1301097237-tt78cadmin.vnpt-invoice.com.vn/PortalService.asmx</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
